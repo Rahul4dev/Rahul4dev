@@ -1,10 +1,10 @@
 # 💫 About Me:
 - 👋 Hi, I’m Rahul Singh aka @Rahul4dev
-- 📫 How to reach me through my Social Handles, I know they are few...
+- 📫 Reach me through my Social Handles, I know they are few... please prefer Discord
 - 🔭 I’m currently working on Mastering JavaScript
 - 👯 I’m looking to collaborate on learning Projects
 - 💬 Ask me about: Design and Tech-Stuff.
-- ⚡ Fun fact: I listen too much Original Scores of Movies and Web-series.
+- ⚡ Fun fact: I listen too much Original Scores of Movies and Web-series. Favourite will be Hans Zimmer's Pirates Of The Carribbean.
 
 
 ## 🌐 Socials:
