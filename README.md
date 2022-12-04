@@ -1,11 +1,13 @@
 # 💫 About Me:
 - 👋 Hi, I’m Rahul Singh aka @Rahul4dev
-- 📫 Reach me through my Social Handles, I know they are few... please prefer Discord
+- 📫 Reach me through my Social Handles, I know they are few... please prefer [Discord]
 - 🔭 I’m currently working on Mastering JavaScript
 - 👯 I’m looking to collaborate on learning Projects
 - 💬 Ask me about: Design and Tech-Stuff.
 - ⚡ Fun fact: I listen too much Original Scores of Movies and Web-series. Favourite will be Hans Zimmer's Pirates Of The Carribbean.
 
+Connect with me:
+[Linkedin](https://www.linkedin.com/in/rahul-singh-840714254) | [HackerRank]() | [LeetCode]() | [CodeStudio]()
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/rahulsingh430) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Rahul4dev#0447) 
