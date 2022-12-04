@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on learning Projects
 - 💬 Ask me about: Design and Tech-Stuff.
 - ⚡ Fun fact: I listen too much Original Scores of Movies and Web-series. Favourite will be Hans Zimmer's Pirates Of The Carribbean.
+- Also: I have youtube channel with same name [Rahul4Dev](https://www.youtube.com/@Rahul4dev) , videos are awaited but still checkout and subscribe to the channel for surprise videos. I will also have a Podcast_Channel with name [@ConvinceMe]() where I will be discussing and taking ideas of life-decisions which are crucial and shocking but taken and people get inspired from that.
 
 Connect with me:
 [Linkedin](https://www.linkedin.com/in/rahul-singh-840714254) | [HackerRank]() | [LeetCode]() | [CodeStudio]()
