@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m Rahul Singh aka @Rahul4dev
-- 📫 Reach me through my Social Handles, I know they are few... please prefer [Discord]
+- 📫 Reach me through my Social Handles, I know they are few... please prefer  [Discord](https://discord.gg/Rahul4dev#0447)
 - 🔭 I’m currently working on Mastering JavaScript
 - 👯 I’m looking to collaborate on learning Projects
 - 💬 Ask me about: Design and Tech-Stuff.
