@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on learning Projects
 - 💬 Ask me about: Design and Tech-Stuff.
 - ⚡ Fun fact: I listen too much Original Scores of Movies and Web-series. Favourite will be Hans Zimmer's Pirates Of The Carribbean.
-- Also: I have youtube channel with same name [Rahul4Dev](https://www.youtube.com/@Rahul4dev) , videos are awaited but still checkout and subscribe to the channel for surprise videos. I will also have a Podcast_Channel with name [@ConvinceMe]() where I will be discussing ideas of life-changing decisions which are crucial and shocking but taken and people take inspiration from that. 
+- Also: I have a youtube channel with the same name Rahul4Dev, its videos are awaited but still check out and subscribe to the channel for surprise videos. I am thinking about starting a Podcast_Channel with the name @ConvinceMe where I will be discussing ideas of life-changing decisions which are crucial and shocking but taken and people take inspiration from that. 
 - Read and follow my blogs on [Hashnode](https://rahul4dev.hashnode.dev/).
 
 Connect with me:
