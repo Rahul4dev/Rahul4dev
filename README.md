@@ -5,8 +5,12 @@
 - 👯 I’m looking to collaborate on learning Projects
 - 💬 Ask me about: Design and Tech-Stuff.
 - ⚡ Fun fact: I listen too much Original Scores of Movies and Web-series. Favourite will be Hans Zimmer's Pirates Of The Carribbean.
-- Also: I have a youtube channel with the same name Rahul4Dev, its videos are awaited but still check out and subscribe to the channel for surprise videos. I am thinking about starting a Podcast_Channel with the name @ConvinceMe where I will be discussing ideas of life-changing decisions which are crucial and shocking but taken and people take inspiration from that. 
-- Read and follow my blogs on [Hashnode](https://rahul4dev.hashnode.dev/).
+- 📃 Read and follow my blogs on [Hashnode](https://rahul4dev.hashnode.dev/).
+- Also: I have some targets🎯 to achieve : 
+    - I have a youtube channel with the same name Rahul4Dev, Where I want to upload videos related to programming exclusives..
+    - I am thinking about starting a Podcast_Channel with the name @ConvinceMe where I will be discussing ideas of life-changing decisions which are crucial and shocking but taken and people take inspiration from that. 
+    - Some projects related to Frontend. 
+
 
 Connect with me:
 [Linkedin](https://www.linkedin.com/in/rahul-singh-840714254) | [HackerRank](https://www.hackerrank.com/Rahul4Dev) | [LeetCode](https://leetcode.com/Rahul4Dev/) | [CodeStudio](https://www.codingninjas.com/codestudio/profile/63911247-b786-4a84-8ac1-3edf02752d43) | [Hashnode](https://rahul4dev.hashnode.dev/)
